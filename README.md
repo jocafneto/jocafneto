@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @jocafneto
-- 👀 I’m interested in data science, nature, computing
+- 👀 I’m interested in data science, nature, computing, physics
 - 🌱 I’m currently learning Python, Quantum Mechanics, How to Survive
-- 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me IG: @jocafneto
 
 <!---
