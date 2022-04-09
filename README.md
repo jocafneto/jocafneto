@@ -1,9 +1,11 @@
-- 👋 Hi, I’m @jocafneto
-- 👀 I’m interested in data science, nature, computing, physics
-- 🌱 I’m currently learning Python, Quantum Mechanics, How to Survive
-- 📫 How to reach me IG: @jocafneto
+Tenho interesses em **Data Science**, **Nature**, **Quantum Computing**, **Cryptography**, **Cosmology**, **Quantum Gravitation**, **Culture**.
 
-<!---
-jocafneto/jocafneto is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+Atualmente, trabalho na criação de **projetos pessoais** de **Data Science**, para adquirir experiência na **solução de problemas de negócio** e também domínio sobre as ferramentas de **análise de dados**.
+
+Estou **buscando** uma oportunidade de trabalhar profissionalmente como **Data Scientist** para melhorar as tomadas de decisão da **empresa**, através de uma **construção** e **manutenção de soluções** usando **dados**.
+
+Você pode encontrar meus projetos pessoais nesse **Github** e mais sobre mim em:
+
+**IG**: @jocafneto.exe
+
+**LinkedIn**: @jocafneto
