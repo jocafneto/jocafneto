@@ -1,4 +1,4 @@
-Tenho interesses em **Data Science**, **Nature**, **Quantum Computing**, **Artificial Intelligence**, **Cryptography**, **Cosmology**, **Quantum Gravitation**, **Brazilian Culture**, **Modular Origami**, **Bonsai**, **Manga/Anime**.
+Tenho interesses em **Data Science**, **Nature**, **Quantum Computing**, **Artificial Intelligence**, **Cryptography**, **Cosmology**, **Quantum Gravitation**, **Brazilian Culture**, **Modular Origami**, **Bonsai** e **Manga/Anime**.
 
 Atualmente, trabalho na criação de **projetos pessoais** de **Data Science**, para adquirir experiência na **solução de problemas de negócio** e também domínio sobre as ferramentas de **análise de dados**.
 
