@@ -6,7 +6,7 @@ Tenho interesses em **Data Science**, **Nature**, **Quantum Computing**, **Cloud
 
 Atualmente, trabalho na criação de **projetos pessoais** de **Data Science**, para adquirir experiência na **solução de problemas de negócio** e também domínio sobre as ferramentas de **análise de dados**.
 
-**Busco** uma oportunidade de trabalhar profissionalmente como **Data Scientist** ou **Data Analyst** para melhorar as tomadas de decisões da **empresa**, através de uma **construção** e **manutenção de soluções** usando **dados**, com auxílio de técnicas de **Machine Learning**.
+**Busco** uma oportunidade de trabalhar profissionalmente como **Data Scientist** ou **Data Analyst** para melhorar as tomadas de decisões da **empresa**, através de uma **construção** e **manutenção de soluções** usando **dados**, com auxílio de técnicas de **Estatística** e **Machine Learning**.
 
 Alguns dos projetos já desenvolvidos **End-to-End**:
 
