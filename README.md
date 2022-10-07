@@ -2,7 +2,7 @@ Bem Vindo ao meu portifólio, visitante!
 
 Me permita apresentar, um pouco, sobre mim. :)
 
-Tenho interesses em **Data Science**, **Nature**, **Quantum Computing**, **Artificial Intelligence**, **Cryptography**, **Cristallography**, **Cosmology**, **Quantum Gravitation**, **Brazilian Culture**, **Modular Origami**, **Bonsai** e **Manga/Anime**.
+Tenho interesses em **Data Science**, **Nature**, **Quantum Computing**, **Cloud Computing**, **Artificial Intelligence**, **WebScrapping**, **Cryptography**, **Crystallography**, **Cosmology**, **Quantum Gravitation**, **Brazilian Culture**, **Modular Origami**, **Bonsai** e **Manga/Anime**.
 
 Atualmente, trabalho na criação de **projetos pessoais** de **Data Science**, para adquirir experiência na **solução de problemas de negócio** e também domínio sobre as ferramentas de **análise de dados**.
 
@@ -18,7 +18,7 @@ Alguns dos projetos já desenvolvidos **End-to-End**:
 
 - **2ª Edição do Hackadays - Comunidade DS (3º Lugar)**: É um **projeto de regressão**, desenvolvido em grupo, durante o evento de dois dias (20/08 e 21/08), cujo objetivo era **estimar o valor de venda dos carros** de uma agência de venda e aluguel de carros. 
 
-Você pode encontrar meus projetos pessoais nesse **Github** e mais sobre mim em:
+Você pode encontrar mais sobre mim em:
 
 **IG**: @jocafneto.exe
 
