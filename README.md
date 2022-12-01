@@ -8,6 +8,10 @@ Atualmente, trabalho na criação de **projetos pessoais** de **Data Science**, 
 
 **Busco** uma oportunidade de trabalhar profissionalmente como **Data Scientist** ou **Data Analyst** para melhorar as tomadas de decisões da **empresa**, através de uma **construção** e **manutenção de soluções** usando **dados**, com auxílio de técnicas de **Estatística** e **Machine Learning**.
 
+<h2>Atual projeto em desenvolvimento:</h2>
+
+- **Insiders Cluster**: É um **projeto de clusterização**, onde o objetivo é conseguir identificar **clusters** de uma base de dados de um **E-commerce** a fim de criar um **programa de fidelidade** para os clientes mais valiosos, com objetivo de impulsionar o faturamento da empresa.
+
 <h2>Projetos desenvolvidos End-to-End:</h2>
 
 - **2ª Edição do Hackadays - Comunidade DS (3º Lugar)**: É um **projeto de regressão**, desenvolvido em grupo, durante o evento de dois dias (20/08 e 21/08), cujo objetivo era **estimar o valor de venda dos carros** de uma agência de venda e aluguel de carros. 
