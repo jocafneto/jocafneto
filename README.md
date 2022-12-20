@@ -10,7 +10,7 @@ Atualmente, trabalho na criação de **projetos pessoais** de **Data Science**, 
 
 <h2>Atual projeto em desenvolvimento:</h2>
 
-- **Insiders Cluster**: É um **projeto de clusterização**, onde o objetivo é conseguir identificar **clusters** de uma base de dados de um **E-commerce** a fim de criar um **programa de fidelidade** para os clientes mais valiosos, com objetivo de impulsionar o faturamento da empresa.
+- **Insiders Cluster**: É um **projeto de clusterização**, onde o objetivo é conseguir identificar **clusters** de uma base de dados, com auxílio de técnicas de **redução de dimensionalidade**, de um **E-commerce** a fim de criar um **programa de fidelidade** para os clientes mais valiosos e impulsionar o faturamento da empresa.
 
 <h2>Projetos desenvolvidos End-to-End:</h2>
 
